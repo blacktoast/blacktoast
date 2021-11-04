@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Rust-3DDC84?style=flat-square&logo=Rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-3DDC84?style=flat-square&logo=Rust&logoColor=black"/>
 
 <!--
 **blacktoast/blacktoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
