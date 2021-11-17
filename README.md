@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-#### Skills
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=Javascript&logoColor=black"/>
+### Skills
+##### Newbee
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=Javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/ReScript-ff7f00 ?style=flat-square&logo=Rescript&logoColor=white"/> 
 
 
 <!--
