@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### Skills
+<main align="center">
+<h3 align="center"> Skills </h3?
 ##### Newbee
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=Javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/ReScript-ff7f00?style=flat-square&logo=Rescript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-3949ab?style=flat-square&logo=React&logoColor=white"/> 
 
@@ -24,3 +25,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seong9887)](https://solved.ac/profile/seong9887)
+
+  </main>
