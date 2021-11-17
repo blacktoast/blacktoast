@@ -1,6 +1,8 @@
-### Hi there 👋
-
+ 
 <div align="center">
+  
+  	![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
   <h3 align="center"> Skills </h3>
 ##### Newbee
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=Javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/ReScript-ff7f00?style=flat-square&logo=Rescript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-3949ab?style=flat-square&logo=React&logoColor=white"/> 
