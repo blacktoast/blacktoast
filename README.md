@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Skills
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ffff00?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=Javascript&logoColor=black"/>
 
 
 <!--
