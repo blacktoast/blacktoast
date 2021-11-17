@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <main align="center">
-<h3 align="center"> Skills </h3?
+  <h3 align="center"> Skills </h3>
 ##### Newbee
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=Javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/ReScript-ff7f00?style=flat-square&logo=Rescript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-3949ab?style=flat-square&logo=React&logoColor=white"/> 
 
