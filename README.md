@@ -29,4 +29,13 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seong9887)](https://solved.ac/profile/seong9887)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/blacktoast"
+  width="1200"
+  height="300"
+/>
+</a>
   </div>
+
+
